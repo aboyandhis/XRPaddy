@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "XRPaddy",
+			"Path": "D:\\Alien\\Documents\\UE4_Projects\\XRPaddy\\Source\\XRPaddy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "XRPaddyEditor",
+			"Path": "D:\\Alien\\Documents\\UE4_Projects\\XRPaddy\\Source\\XRPaddyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
